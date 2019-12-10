@@ -1,2 +1,11 @@
 # rest-demo
-C# Rest Demo
+
+Demo
+
+Required:
+* Visual Code or Visual Studio Community
+* Dotnet SDK
+
+
+Run: 
+dotnet build
